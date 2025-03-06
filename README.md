@@ -1,2 +1,2 @@
-# RDK Bugs Intelligent Analyser
+# RDK Bugs AI Analyser
 ![Flowchart](bug-analysis.png)
